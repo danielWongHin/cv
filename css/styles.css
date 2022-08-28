@@ -1,0 +1,20 @@
+body {
+
+    background-color: #B2C8DF;
+}
+
+hr {
+    background-color: #C4D7E0;
+    border-style: none;
+    height: 5px;
+}
+
+h1 {
+    color: #6E85B7
+}
+
+h3 {
+    color: #6E85B7;
+    text-decoration-line: underline;
+    font-style: italic;
+}
